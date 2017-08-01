@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        Welcome to New CR34243#&&&&&&&&&&&&& ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
+        Welcome to New CR34243#Test2222 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
     </h2>
     <p>
         To learn more about ASP.NET Test visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
