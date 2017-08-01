@@ -1,0 +1,4 @@
+C:\Users\Ash\Documents\Visual Studio 2010\Projects\Myapp\Myapp\bin\Myapp.dll
+C:\Users\Ash\Documents\Visual Studio 2010\Projects\Myapp\Myapp\bin\Myapp.pdb
+C:\Users\Ash\Documents\Visual Studio 2010\Projects\Myapp\Myapp\obj\Debug\Myapp.dll
+C:\Users\Ash\Documents\Visual Studio 2010\Projects\Myapp\Myapp\obj\Debug\Myapp.pdb
