@@ -5,10 +5,10 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        Welcome to New CR#440 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
+        Welcome to New CR#500 - Test1 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
     </h2>
     <p>
-        To learn more about ASP.NET Test visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
+        To learn more about ASP.NET Test1 visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
     </p><br />
 
     <p>This is a demo Application</p>

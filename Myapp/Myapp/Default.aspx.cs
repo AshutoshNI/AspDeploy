@@ -11,7 +11,7 @@ namespace Myapp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Write( "This is a demo Test CR#440 application with current datetime :-" +System.DateTime.Now.ToString());
+            Response.Write( "This is a demo CR#500 - Test1 application with current datetime :-" +System.DateTime.Now.ToString());
             
            
 
