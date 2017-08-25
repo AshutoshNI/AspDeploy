@@ -7,6 +7,11 @@
     <h2>
         Welcome to New CR#500 - Test1 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
     </h2>
+    
+    <p class="lead">
+            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        </p>
+
     <p>
         To learn more about ASP.NET Test1 visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
     </p><br />
