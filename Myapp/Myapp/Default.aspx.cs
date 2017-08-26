@@ -16,10 +16,7 @@ namespace Myapp
             string text = File.ReadAllText(@"c:\EVM\UATENV", System.Text.Encoding.UTF8);
             Label1.Text = text;
             
-            
-             
-
-           
+ 
 
         }
     }
