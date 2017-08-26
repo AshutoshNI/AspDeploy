@@ -15,7 +15,7 @@
     </p><br />
 
     <p class="lead">
-    <h1><b>Environment-Info :</b></h1>
+    <h1><b>Environment-Info-UAT :</b></h1>
            <h1> <asp:Label ID="Label1" runat="server" Text="Label1"></asp:Label> </h1>
         </p>
 
