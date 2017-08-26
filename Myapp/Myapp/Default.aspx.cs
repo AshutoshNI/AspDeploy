@@ -13,7 +13,7 @@ namespace Myapp
         protected void Page_Load(object sender, EventArgs e)
         {
             
-            string text = File.ReadAllText(@"c:\EVM\SITENV", System.Text.Encoding.UTF8);
+            string text = File.ReadAllText(@"c:\EVM\ENV", System.Text.Encoding.UTF8);
             Label1.Text = text;
             
  
