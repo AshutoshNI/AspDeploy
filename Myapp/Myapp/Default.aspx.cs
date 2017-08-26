@@ -1,9 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.IO;
 
 namespace Myapp
 {
@@ -11,8 +12,13 @@ namespace Myapp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Write( "This is a demo &&&& Test application with current datetime :-" +System.DateTime.Now.ToString());
             
+            string text = File.ReadAllText(@"c:\EVM\SITENV", System.Text.Encoding.UTF8);
+            Label1.Text = text;
+            
+            
+             
+
            
 
         }
