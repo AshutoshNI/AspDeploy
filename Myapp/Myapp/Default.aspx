@@ -1,4 +1,4 @@
-<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
+﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
     CodeBehind="Default.aspx.cs" Inherits="Myapp._Default" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
@@ -13,8 +13,8 @@
     </p><br />
 
     <p class="lead">
-    <h1><b>Environment-Info-SITN :</b></h1>
-           <h1> <asp:Label ID="Label1" runat="server" Text="Label1"></asp:Label> </h1>
+    <h1><b>Environment :</b></h1>
+           <h1> <asp:Label ID="Label1" runat="server" Text="Label2"></asp:Label> </h1>
         </p>
 
     <p>
