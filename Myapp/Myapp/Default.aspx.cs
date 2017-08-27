@@ -12,12 +12,12 @@ namespace Myapp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            string text = File.ReadAllText(@"c:\EVM\SITENV", System.Text.Encoding.UTF8);
 
+            
+            string text = File.ReadAllText(@"c:\EVM\UATENV", System.Text.Encoding.UTF8);
             Label1.Text = text;
             
-            Response.Write( "<b>This is Demo Change for CR#600 | Test FL  application with current datetime :-</b>" +System.DateTime.Now.ToString());
-          
+            Response.Write( "This is a demo CR#500 - Test1 application with current datetime :-" +System.DateTime.Now.ToString());
 
            
 
