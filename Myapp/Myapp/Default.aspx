@@ -6,8 +6,8 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
 
-
         Welcome to New Change Request <b>CR#604 | UI Change </b> | Demo Test2 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
+
 
 
     </h2>
@@ -24,8 +24,10 @@
    </b> </p>
     
     <p class="lead">
+
 <h1><b>Build&ReleaseDetails: </b>
                <asp:Label ID="Label1" runat="server" Text="Label1"></asp:Label> </h1>
+
         </p>
 
     <p>

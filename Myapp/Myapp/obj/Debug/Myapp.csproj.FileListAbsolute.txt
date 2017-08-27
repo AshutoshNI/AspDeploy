@@ -1,9 +1,0 @@
-C:\Users\Ash\Documents\Visual Studio 2010\Projects\Myapp\Myapp\bin\Myapp.dll
-C:\Users\Ash\Documents\Visual Studio 2010\Projects\Myapp\Myapp\bin\Myapp.pdb
-C:\Users\Ash\Documents\Visual Studio 2010\Projects\Myapp\Myapp\obj\Debug\Myapp.dll
-C:\Users\Ash\Documents\Visual Studio 2010\Projects\Myapp\Myapp\obj\Debug\Myapp.pdb
-C:\Program Files (x86)\Jenkins\workspace\SITBuild\Myapp\Myapp\bin\Myapp.dll
-C:\Program Files (x86)\Jenkins\workspace\SITBuild\Myapp\Myapp\bin\Myapp.pdb
-C:\Program Files (x86)\Jenkins\workspace\SITBuild\Myapp\Myapp\obj\Debug\Myapp.csprojResolveAssemblyReference.cache
-C:\Program Files (x86)\Jenkins\workspace\SITBuild\Myapp\Myapp\obj\Debug\Myapp.dll
-C:\Program Files (x86)\Jenkins\workspace\SITBuild\Myapp\Myapp\obj\Debug\Myapp.pdb
