@@ -13,7 +13,7 @@ namespace Myapp
         protected void Page_Load(object sender, EventArgs e)
         {
             
-            string text = File.ReadAllText(@"c:\EVM\StagingENV", System.Text.Encoding.UTF8);
+            string text = File.ReadAllText(@"c:\EVM\UATENV", System.Text.Encoding.UTF8);
             Label1.Text = text;
             
             Response.Write( "This is a demo CR#11500 - Test1111 application with current datetime :-" +System.DateTime.Now.ToString());
