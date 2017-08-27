@@ -7,7 +7,7 @@
     <h2>
 
 
-        Welcome to New Change Request <b>CR#603 | Port & Build Details </b> | Demo Test2 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
+        Welcome to New Change Request <b>CR#604 | UI Change </b> | Demo Test2 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
 
 
     </h2>
@@ -22,9 +22,9 @@
         PreProd Port : 4000 <br>
         
    </b> </p>
-    <h1><b>Build&ReleaseDetails: </b></h1>
+    
     <p class="lead">
-
+<h1><b>Build&ReleaseDetails: </b></h1>
 
                <h1> <asp:Label ID="Label1" runat="server" Text="Label1"></asp:Label> </h1>
         </p>
