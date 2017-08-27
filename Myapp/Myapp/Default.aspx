@@ -24,7 +24,7 @@
    </b> </p>
     
     <p class="lead">
-<h1><b>Build&ReleaseDetails: </b> <br>
+<h1><b>Build&ReleaseDetails: </b>
                <asp:Label ID="Label1" runat="server" Text="Label1"></asp:Label> </h1>
         </p>
 
