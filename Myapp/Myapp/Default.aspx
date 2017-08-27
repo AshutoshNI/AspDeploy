@@ -7,7 +7,7 @@
     <h2>
 
 
-        Welcome to New Change Request <b>CR#600 </b> | Test1  Demo ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
+        Welcome to New Change Request <b>66666CR#600 </b> | Test1  Demo ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
 
 
     </h2>
@@ -19,7 +19,7 @@
     <p class="lead">
 
 
-    <h1><b>Environment - Info :</b></h1>
+    <h1><b>Environment -%%%% Info :</b></h1>
 
 
            <h1> <asp:Label ID="Label1" runat="server" Text="Label1"></asp:Label> </h1>
