@@ -7,7 +7,7 @@
     <h2>
 
 
-        Welcome to New Change Request <b>CR#602 | Port Details </b> | Demo Test2 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
+        Welcome to New Change Request <b>CR#603 | Port & Build Details </b> | Demo Test2 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
 
 
     </h2>
@@ -16,18 +16,17 @@
         To learn more about ASP.NET visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
     </p><br />
     <p><b>
+        <h1><b>Environments - Info :</b></h1>
         SIT Port :  9090 <br>
         UAT Port :  5000 <br>
         PreProd Port : 4000 <br>
         
    </b> </p>
+    <h1><b>Build&ReleaseDetails: </b></h1>
     <p class="lead">
 
 
-    <h1><b>Environment - Info :</b></h1>
-
-
-           <h1> <asp:Label ID="Label1" runat="server" Text="Label1"></asp:Label> </h1>
+               <h1> <asp:Label ID="Label1" runat="server" Text="Label1"></asp:Label> </h1>
         </p>
 
     <p>
