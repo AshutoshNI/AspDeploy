@@ -7,15 +7,20 @@
     <h2>
 
 
-        Welcome to New Change Request <b>CR#601 </b> | Demo Test2 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
+        Welcome to New Change Request <b>CR#602 | Port Details </b> | Demo Test2 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
 
 
     </h2>
     
     <p>
-        To learn more about ASP.NET Test1 visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
+        To learn more about ASP.NET visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
     </p><br />
-
+    <p><b>
+        SIT Port :  9090
+        UAT Port :  5000
+        PreProd Port : 4000 
+        
+   </b> </p>
     <p class="lead">
 
 
