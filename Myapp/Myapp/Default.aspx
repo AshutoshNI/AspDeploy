@@ -5,7 +5,9 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
+
         Welcome to New CR#500 - Test1 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
+
     </h2>
     
     <p>
