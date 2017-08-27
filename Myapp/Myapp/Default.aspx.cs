@@ -16,8 +16,8 @@ namespace Myapp
             string text = File.ReadAllText(@"c:\EVM\UATENV", System.Text.Encoding.UTF8);
             Label1.Text = text;
             
-            Response.Write( "This is a demo CR#11500 - Test1111 application with current datetime :-" +System.DateTime.Now.ToString());
-             
+
+            //Response.Write( "This is a demo CR#500 - Test1 application with current datetime :-" +System.DateTime.Now.ToString());
 
            
 

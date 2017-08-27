@@ -6,7 +6,9 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
 
-        Welcome to New Change Request <b>CR##600 </b> | Test1  Demo ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
+
+        Welcome to New Change Request <b> UAT CR#601 </b> | Demo Test2 ASP.NET! | Date: <% Response.Write(System.DateTime.Now.ToString());%>
+
 
     </h2>
     
