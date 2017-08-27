@@ -16,9 +16,9 @@
         To learn more about ASP.NET visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
     </p><br />
     <p><b>
-        SIT Port :  9090
-        UAT Port :  5000
-        PreProd Port : 4000 
+        SIT Port :  9090 <br>
+        UAT Port :  5000 <br>
+        PreProd Port : 4000 <br>
         
    </b> </p>
     <p class="lead">
