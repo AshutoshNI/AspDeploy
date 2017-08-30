@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage('SIT') {
+    stage('SITBuild') {
       steps {
         build(job: 'SITBuild', propagate: true)
       }
