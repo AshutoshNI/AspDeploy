@@ -11,5 +11,12 @@ pipeline {
         build 'SITDeployment'
       }
     }
+
+    stage('PreUATBuild') {
+      steps {
+        echo 'Change Approval Status'
+      }
+    }
   }
 }
+
