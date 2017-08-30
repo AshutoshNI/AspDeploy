@@ -1,5 +1,5 @@
 pipeline {
-  agent any
+  agent none
   stages {
     stage('SITBuild') {
       steps {
@@ -11,9 +11,14 @@ pipeline {
         build 'SITDeployment'
       }
     }
-    stage('PreUATBuild') {
+    stage('UATBuild') {
       steps {
-        echo 'Change Approval Status'
+        build 'UATBuild'
+      }
+    }
+    stage('UATDeploy') {
+      steps {
+        build 'UATDeploy'
       }
     }
   }
