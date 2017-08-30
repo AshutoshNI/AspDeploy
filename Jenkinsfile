@@ -43,7 +43,7 @@ pipeline {
     }
     stage('Staging Deployment') {
       steps {
-        build 'Staging Deployment'
+        build 'StagingDeployment'
       }
     }
   }
