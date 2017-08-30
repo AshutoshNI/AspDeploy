@@ -24,6 +24,7 @@ pipeline {
     stage('UAT Build') {
       steps {
         build 'UATDeployment'
+        build 'UATBuild'
       }
     }
     stage('UAT Deployment') {
