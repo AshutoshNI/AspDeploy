@@ -19,7 +19,7 @@ namespace Myapp
             
 
 
-            Response.Write( "This is a demo CR#615 - Test1 application with current datetime :-" +System.DateTime.Now.ToString());
+            Response.Write( "This is a demo CR#701 - Test5 application with current datetime :-" +System.DateTime.Now.ToString());
 
 
            
